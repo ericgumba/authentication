@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/okmanl/authentication/issues"
   },
-  "homepage": "https://github.com/okmanl/authentication#readme"
+  "homepage": "https://github.com/okmanl/authentication#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth20": "^1.0.0"
+  }
 }
